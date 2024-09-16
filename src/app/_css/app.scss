@@ -56,7 +56,6 @@ body {
 
 .main {
   flex: 1 1 auto;
-  margin-top: 115px;
   @include mid-break {
     margin-top: 0;
     width: 100%;
